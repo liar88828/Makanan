@@ -1,0 +1,8 @@
+-- membuat controller
+php artisan  make:controller MakananController
+
+--membuat model
+php artisan make:model Makanan -m
+
+-- migrate model
+
